@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2017 Faiyaz Shaikh
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Original project source: https://github.com/yTakkar/Instagram-clone
+
+Creative commons License
+Copyright (c) 2020 Marlou Xerkxex D. Rentucan
+
+Heavily Modified December 21 2020 for CCC181 capstone project
+Workhours Dec21 to January 4
+Work included but not limited to: Improving overall stability since RAW source is buggy, Migrating to PHP 7.4 (namespaces) updated bootstrap, javascript CDN's
+added extra features, fixed chat errors, DB revamped added IDnumber, department, course TAGs,
+Removed unnecessary stuff (GIF sharing, MEME generator)
+Optimized code structure - both internal/external - front end and back end - front page media etc.
+Optimized medias - compressed videos and photos for faster server reply performance
+Fixed cloud dependencies (Working on 50 emails per day hosting (Email verification system))
+
+Frontpage source: https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/
+(Bootstrapmade pro license)
+Overall Terms and conditions, Licenses:  https://docs.google.com/document/u/2/d/1jEf9A6RvzW_-Dw5l5knQxmTLjsPOHdZMkrC6Gy8Vsa0/edit?usp=sharing
