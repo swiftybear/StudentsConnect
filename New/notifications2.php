@@ -211,16 +211,18 @@ echo "['".$row['type']."',".$row['count']."],";
 
          function drawChart() {
            var data = google.visualization.arrayToDataTable([
-             ['Year', 'Sales', 'Expenses'],
-             ['2004',  1000,      400],
-             ['2005',  1170,      460],
-             ['2006',  660,       1120],
-             ['2007',  1030,      540]
+             ['Month', 'Posts', 'Users'],
+
+             ['October',  0,      5],
+             ['November',  4,      5],
+             ['December',  5,       8],
+             ['January',  8,      15]
+
            ]);
 
            var options = {
              'backgroundColor':'#fcffe3',
-             title: 'Company Performance',
+             title: 'Students Connect Notes performance',
              curveType: 'function',
              legend: { position: 'bottom' }
 
